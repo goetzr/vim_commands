@@ -1,0 +1,2 @@
+CTRL-E		Scroll down a single line without moving the cursor.
+CTRL-Y		Scroll up a single line without moving the cursor.
